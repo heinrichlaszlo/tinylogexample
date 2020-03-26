@@ -1,0 +1,5 @@
+2020-03-26 10:23:55 [main] pgk.Main.main()
+ERROR: This is an Error message
+2020-03-26 10:23:55 [main] pgk.Main.main()
+ERROR: Something is wrong: java.lang.RuntimeException: Oops
+	at pgk.Main.main(Main.java:14)
